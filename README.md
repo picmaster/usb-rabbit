@@ -9,4 +9,4 @@ Tasks, WIP:
 
 TODO:
 - Add support for FTDI FT1248 mode
--Add support for Cypress FX2
+- Add support for Cypress FX2
